@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @shakti2000
 - 👀 I’m interested in learningNewThings
-- 🌱 I’m currently learning Programming
+- 🌱 I’m currently working as Software Engineer
 - 💞️ I’m looking to collaborate on theSame
 - 📫 How to reach me shaktiaggarwal11@gmail.com
 
